@@ -1,1 +1,1 @@
-"#test scripts"
+"#SMPP send SMS over kannel"
